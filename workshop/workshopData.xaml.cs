@@ -71,5 +71,17 @@ namespace workshop
                 LoadData();
             }
         }
+
+        private void b_UpdateDB_Click(object sender, RoutedEventArgs e)
+        {
+            int id = 0;
+            if (int.TryParse(tb_IdUpdate.Text, out id))
+            {
+                string sqlExpression = @$"UPDATE orders SET status = '{tb_StatusUpdate.Text}' WHERE id = {id};";
+                SqlCommand command = new SqlCommand(sqlExpression, MainWindow.worshopDB.con);
+                command.ExecuteNonQuery();
+                LoadData();
+            }
+        }
     }
 }

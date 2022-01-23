@@ -52,6 +52,13 @@
             <Button x:Name="b_deleteFromDB" Grid.Column="3" Content="Удалить" HorizontalAlignment="Left" Grid.Row="4" VerticalAlignment="Center" Width="146" Margin="36,0,0,0" Click="b_deleteFromDB_Click"/>
             <TextBox x:Name="tb_Id" Grid.Row="1" Grid.Column="3" TextWrapping="Wrap" VerticalAlignment="Center" Background="#00000000" SelectionTextBrush="White" Cursor="IBeam"/>
 
+            <Label Content="Введите Id" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="5"/>
+            <TextBox x:Name="tb_IdUpdate" Grid.Row="1" Grid.Column="5" TextWrapping="Wrap" VerticalAlignment="Center" Background="#00000000" SelectionTextBrush="White" Cursor="IBeam"/>
+            <Label Content="Введите новый статус" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="5"/>
+            <TextBox x:Name="tb_StatusUpdate" Grid.Row="3" Grid.Column="5" TextWrapping="Wrap" VerticalAlignment="Center" Background="#00000000" SelectionTextBrush="White" Cursor="IBeam"/>
+            <Button x:Name="b_UpdateDB" Grid.Column="5" Content="Обновить" HorizontalAlignment="Left" Grid.Row="4" VerticalAlignment="Center" Width="146" Margin="36,0,0,0" Click="b_UpdateDB_Click"/>
+            
+
         </Grid>
     </Grid>
 </Window>
