@@ -1,0 +1,169 @@
+C:\Users\valer\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.exe
+C:\Users\valer\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.deps.json
+C:\Users\valer\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.runtimeconfig.json
+C:\Users\valer\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.runtimeconfig.dev.json
+C:\Users\valer\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.dll
+C:\Users\valer\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.pdb
+C:\Users\valer\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\valer\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\valer\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\workshop_MarkupCompile.cache
+C:\Users\valer\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\workshop_MarkupCompile.lref
+C:\Users\valer\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\valer\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.g.resources
+C:\Users\valer\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.AssemblyInfoInputs.cache
+C:\Users\valer\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.AssemblyInfo.cs
+C:\Users\valer\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.dll
+C:\Users\valer\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.pdb
+C:\Users\valer\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.genruntimeconfig.cache
+C:\Users\valer\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\valer\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\valer\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.CopyComplete
+C:\Users\valer\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\valer\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\valer\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\valer\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\valer\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\valer\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\valer\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\valer\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\Authorization.g.cs
+C:\Users\valer\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\Authorization.baml
+D:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.exe
+D:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.deps.json
+D:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.runtimeconfig.json
+D:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.runtimeconfig.dev.json
+D:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.dll
+D:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.pdb
+D:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+D:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+D:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.AssemblyReference.cache
+D:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\Authorization.g.cs
+D:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop_MarkupCompile.cache
+D:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop_MarkupCompile.lref
+D:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\App.baml
+D:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\Authorization.baml
+D:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.g.resources
+D:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.AssemblyInfoInputs.cache
+D:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.AssemblyInfo.cs
+D:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.CoreCompileInputs.cache
+D:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.CopyComplete
+D:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.dll
+D:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.pdb
+D:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.genruntimeconfig.cache
+H:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.exe
+H:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.deps.json
+H:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.runtimeconfig.json
+H:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.runtimeconfig.dev.json
+H:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.dll
+H:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.pdb
+H:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+H:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+H:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+H:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.AssemblyReference.cache
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\Authorization.g.cs
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\App.g.cs
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop_MarkupCompile.cache
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop_MarkupCompile.lref
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\App.baml
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\Authorization.baml
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\MainWindow.baml
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.g.resources
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.AssemblyInfoInputs.cache
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.AssemblyInfo.cs
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.CoreCompileInputs.cache
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.CopyComplete
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.dll
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.pdb
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.genruntimeconfig.cache
+E:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.exe
+E:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.deps.json
+E:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.runtimeconfig.json
+E:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.runtimeconfig.dev.json
+E:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.dll
+E:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.pdb
+E:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+E:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+E:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.AssemblyReference.cache
+E:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\Authorization.g.cs
+E:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop_MarkupCompile.cache
+E:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop_MarkupCompile.lref
+E:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\App.baml
+E:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\Authorization.baml
+E:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.g.resources
+E:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.AssemblyInfoInputs.cache
+E:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.AssemblyInfo.cs
+E:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.CoreCompileInputs.cache
+E:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.CopyComplete
+E:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.dll
+E:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.pdb
+E:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.genruntimeconfig.cache
+D:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\LocalWorkshopDB_log.ldf
+D:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshopData.g.cs
+D:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshopData.baml
+F:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.exe
+F:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.deps.json
+F:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.runtimeconfig.json
+F:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.runtimeconfig.dev.json
+F:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.dll
+F:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.pdb
+F:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+F:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+F:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.AssemblyReference.cache
+F:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\Authorization.g.cs
+F:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshopData.g.cs
+F:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\App.g.cs
+F:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop_MarkupCompile.cache
+F:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop_MarkupCompile.lref
+F:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\App.baml
+F:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\Authorization.baml
+F:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshopData.baml
+F:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.g.resources
+F:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.AssemblyInfoInputs.cache
+F:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.AssemblyInfo.cs
+F:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.CoreCompileInputs.cache
+F:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.CopyComplete
+F:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.dll
+F:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.pdb
+F:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.genruntimeconfig.cache
+F:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\LocalWorkshopDB.mdf
+F:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\LocalWorkshopDB_log.ldf
+D:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\LocalWorkshopDB.mdf
+H:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\LocalWorkshopDB.mdf
+H:\Сигма-М\VS Csh\workshop\workshop\bin\Debug\netcoreapp3.1\LocalWorkshopDB_log.ldf
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshopData.g.cs
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshopData.baml
+H:\Сигма-М\VS Csh\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.GeneratedMSBuildEditorConfig.editorconfig
