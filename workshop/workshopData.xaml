@@ -46,7 +46,7 @@
             <TextBox x:Name="tb_Employee" Grid.Row="3" Grid.Column="1" TextWrapping="Wrap" VerticalAlignment="Center" Background="#00000000" SelectionTextBrush="White" Cursor="IBeam"/>
             <Button x:Name="b_addToDB" Grid.Column="1" Content="Добавить" HorizontalAlignment="Left" Grid.Row="4" VerticalAlignment="Center" Width="146" Margin="36,0,0,0" Click="b_addToDB_Click"/>
             <Label Content="Введите серийный номер" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1"/>
-            <Label Content="Введите имя сотрудника" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Column="1" Margin="32,7,0,0" Grid.Row="2"/>
+            <Label Content="Введите имя сотрудника" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Column="1" Margin="32,7,0,0" Grid.Row="2"/>
             
             <Label Content="Введите Id" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="3"/>
             <Button x:Name="b_deleteFromDB" Grid.Column="3" Content="Удалить" HorizontalAlignment="Left" Grid.Row="4" VerticalAlignment="Center" Width="146" Margin="36,0,0,0" Click="b_deleteFromDB_Click"/>
@@ -56,7 +56,7 @@
             <TextBox x:Name="tb_IdUpdate" Grid.Row="1" Grid.Column="5" TextWrapping="Wrap" VerticalAlignment="Center" Background="#00000000" SelectionTextBrush="White" Cursor="IBeam"/>
             <Label Content="Введите новый статус" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="5"/>
             <TextBox x:Name="tb_StatusUpdate" Grid.Row="3" Grid.Column="5" TextWrapping="Wrap" VerticalAlignment="Center" Background="#00000000" SelectionTextBrush="White" Cursor="IBeam"/>
-            <Button x:Name="b_UpdateDB" Grid.Column="5" Content="Обновить" HorizontalAlignment="Left" Grid.Row="4" VerticalAlignment="Center" Width="146" Margin="36,0,0,0" Click="b_UpdateDB_Click"/>
+            <Button x:Name="b_UpdateDB" Grid.Column="5" Content="Обновить" HorizontalAlignment="Left" Grid.Row="4" VerticalAlignment="Center" Width="146" Margin="36,0,0,0" Click="b_UpdateDB_Click" Cursor="Hand"/>
             
 
         </Grid>
